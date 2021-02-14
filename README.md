@@ -1,6 +1,6 @@
 # Typing Test
 
-> A simple tool for testing your typing speed.
+> A simple tool for testing your typing speed. Written in TypeScript.
 
 <p align="center">
   <img src="./screenshot.gif" alt="screenshot" />
