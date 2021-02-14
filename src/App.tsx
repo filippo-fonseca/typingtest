@@ -6,7 +6,7 @@ import Result from "./components/Result";
 import { allowedKeys, generateRandomWords } from "./helper";
 const ErrorBeep = require("./sound/beep.wav");
 
-interface iState {
+interface IState {
   inputText: string;
   remainingText: string;
   completedText: string;
@@ -21,7 +21,7 @@ interface iState {
   started: boolean;
 }
 
-const initialState: iState = {
+const initialState: IState = {
   inputText: "Welcome, click on the button below to get started!",
   remainingText: "Welcome, click on the button below to get started!",
   completedText: "",
