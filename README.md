@@ -23,4 +23,4 @@ npm i
 ```
 
 
-Inpired by [react-one-minute-typing-test-ts](https://github.com/awran5/react-one-minute-speed-typing-test-ts.git).
+Inpired by [react-one-minute-typing-test-ts](https://github.com/awran5/react-one-minute-speed-typing-test-ts.git). Full credit to them.
