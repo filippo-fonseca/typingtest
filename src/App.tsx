@@ -37,7 +37,7 @@ const initialState: IState = {
 };
 
 function App() {
-  const [state, setState] = useState<iState>(initialState);
+  const [state, setState] = useState<IState>(initialState);
   const interval: React.MutableRefObject<number | null> = useRef<number | null>(
     null
   );
